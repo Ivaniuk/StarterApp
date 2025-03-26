@@ -20,4 +20,4 @@ Update the AppComponent to display the MainComponent.
 
 Run the application and make sure it works in the browser as shown below:
 
-<img src="assets/StarterApp.png" />
+<img src="src/assets/StarterApp.png" />
